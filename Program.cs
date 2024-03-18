@@ -2,4 +2,4 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Novo");
 
-Console.WriteLine("Ja ssam Ana i volim tartar");
+Console.WriteLine("Ja sam Ana i volim tartar");
